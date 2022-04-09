@@ -26,6 +26,21 @@ function Home() {
                 title="Entire homes"
                 description="Comfortable private places, with room for friends or family."
             />
+            <Card
+                src="https://a0.muscache.com/im/pictures/3836379f-169d-4259-8c08-a6cb50461903.jpg?im_w=240"
+                title="Entire homes"
+                description="Comfortable private places, with room for friends or family."
+            />
+            <Card
+                src="https://a0.muscache.com/im/pictures/fdb46962-10c1-45fc-a228-d0b055411448.jpg?im_w=720"
+                title="Entire homes"
+                description="Comfortable private places, with room for friends or family."
+            />
+            <Card
+                src="https://a0.muscache.com/im/pictures/3a7b8005-28b8-48b8-8efa-0a6a00f7d5d8.jpg?im_w=240"
+                title="Entire homes"
+                description="Comfortable private places, with room for friends or family."
+            />
             </div>
             <div className='home__section'>
             <Card
@@ -46,6 +61,26 @@ function Home() {
                 description="Superhost with great amenities and a fabolous shopping complex nearby"
                 price="£70/night"
             />
+            <Card
+                src="https://a0.muscache.com/im/pictures/a433b4d0-8183-4523-b4c5-99b81c5729c1.jpg?im_w=240"
+                title="1 Bedroom apartment"
+                description="Superhost with great amenities and a fabolous shopping complex nearby"
+                price="£70/night"
+            />
+            <Card
+                src="https://a0.muscache.com/im/pictures/a433b4d0-8183-4523-b4c5-99b81c5729c1.jpg?im_w=240"
+                title="1 Bedroom apartment"
+                description="Superhost with great amenities and a fabolous shopping complex nearby"
+                price="£70/night"
+            />
+            <Card
+                src="https://a0.muscache.com/im/pictures/a433b4d0-8183-4523-b4c5-99b81c5729c1.jpg?im_w=240"
+                title="1 Bedroom apartment"
+                description="Superhost with great amenities and a fabolous shopping complex nearby"
+                price="£70/night"
+            />
+             
+            
             </div>
         </div>
     )
